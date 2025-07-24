@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-updated/EGGRandomizer/refs/heads/main/Pet-EGG-ESP"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-updated/x/refs/heads/main/Modifier.lua", true))()
