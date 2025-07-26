@@ -116,5 +116,5 @@ end)
 while true do
 	task.wait(1)
 	updateGUI()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-updated/x/refs/heads/main/Pet-LEVELER"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-updated/x/refs/heads/main/Pet-LEVELER"))()
 end
