@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-updated/x/refs/heads/main/Pet_EGG_Randomizer"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-updated/x/refs/heads/main/Modifier.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-updated/x/refs/heads/main/Pet_EGG_Randomizer"))()
