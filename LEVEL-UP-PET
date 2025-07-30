@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-update/PetSpawner/refs/heads/main/PETSPAWNER"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-updated/x/refs/heads/main/Pet-Leveler"))()
