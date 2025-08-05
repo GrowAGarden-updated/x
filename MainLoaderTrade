@@ -98,7 +98,7 @@ frameShadow.Parent = mainFrame
 -- Credit Label
 local creditLabel = Instance.new("TextLabel")
 creditLabel.Name = "CreditLabel"
-creditLabel.Text = "Tiktok: @marksffff1"
+creditLabel.Text = "Tiktok: @nelli"
 creditLabel.Font = Enum.Font.GothamBold
 creditLabel.TextSize = 16
 creditLabel.TextColor3 = Color3.fromRGB(220, 220, 220)
